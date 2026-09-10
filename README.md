@@ -1,3 +1,3 @@
 # test
-This is test repository for MLOPs act
+This is test repository for MlOpss lecture
 
